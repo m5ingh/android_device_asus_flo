@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_flo-userdebug
+COMMON_LUNCH_CHOICES aosp_flo-userdebug
